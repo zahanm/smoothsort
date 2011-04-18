@@ -1,0 +1,5 @@
+A Python implementation of the smoothsort algorithm
+
+Inspired by Keith Schwartz's writeup on demystifying Smoothsort
+http://www.keithschwarz.com/smoothsort/
+
